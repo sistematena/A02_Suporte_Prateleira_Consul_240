@@ -10,7 +10,7 @@ Alguns problemas foram percebidos após a conclusão da impressão da versão 1.
 1) Fácil desprendimento aos encaixes da geladeira;
 2) Baixa resistência à deformação.
 
-Para solucionar o problema 1 foi necessário utilizar cola quente de silicone
+Para solucionar o problema 1 foi necessário utilizar cola quente de silicone.
 Quanto à baixa resistência à deformação, fica proposto, em uma segunda versão, aumentar a espessura das peças a03 e a04 em 2mm a fim de que a espessura fique em 3mm. Dessa forma, a viga ficará mais resistente contra deformações. 
 
 Obs.: Caso as peças a03 e a04 sejam modificadas, a peça a05 precisa ser redimensionada para que cumpra seu propósito de unir as peças a03 e a04.
