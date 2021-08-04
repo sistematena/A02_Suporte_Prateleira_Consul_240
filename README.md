@@ -8,4 +8,8 @@ Foi necessário fazer a divisão da viga em três partes devido a limitações d
 
 Os problemas relatados na versão 1.0 foram resolvidos na versão 2.0.
 
+Softwares Utilizados:
+* Blender;
+* Cura;
+
 Obs.: Caso as peças a03 e a04 sejam modificadas, a peça a05 precisa ser redimensionada para que cumpra seu propósito de unir as peças a03 e a04.
